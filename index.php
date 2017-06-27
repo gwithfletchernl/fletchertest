@@ -8,5 +8,5 @@
 
 echo 'hello world';
 echo '<br />and bad day sir, thanks';
-echo '<br />and easy day sir, ok';
+echo '<br />and easy day sir, ok/';
 echo 'hello ed';
