@@ -7,5 +7,6 @@
  */
 
 echo 'hello world';
+echo '<br />and easy day sir';
 echo '<br />and bad day sir';
 echo 'hello ed';
